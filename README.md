@@ -1,6 +1,6 @@
 # Computer Vision Project
 
-Convolution neural network for image classification of CIFAR-10 dataset.
+Convolutional neural network for image classification of CIFAR-10 dataset.
 
 ## Code and Packages
 
